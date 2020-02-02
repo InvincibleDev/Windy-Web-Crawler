@@ -91,10 +91,10 @@ Longitude 77.59369
 
 ## Authors
 
-Ganesh Prasad B G - (www.github.com/InvincibleDev)
+[Ganesh Prasad B G](www.github.com/InvincibleDev)
 
 
 
 ## Acknowledgments
 
-[Vivek Chandra B S](https://github.com/vivekchandrabs)
+[Vivek Chandra B S](https://github.com/vivekchandrabs) Thank You
