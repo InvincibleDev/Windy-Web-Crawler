@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setup(
     name='windy-crawler',
-    version="v0.21",
+    version="v0.24",
     packages=['windy_crawler',],
     python_requires=">=2.7, !=3.0.*, !=3.1.*, !=3.2.*, !=3.3.*",
     install_requires=['pyppeteer==0.0.25', "beautifulsoup4==4.8.2", "lxml==4.5.0", "geopy==1.20.0", "prettytable==0.7.2"],

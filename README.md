@@ -12,7 +12,7 @@ These instructions will get you a copy of the project up and running on your loc
 A step by step guide for installing from PyPi:
 
 ```
-pip install windy-web-crawler
+pip install windy-crawler
 ```
 
 
@@ -88,13 +88,7 @@ Longitude 77.59369
 |      Wind (knots)     |  7  |  5  |  4  |  4  |  4   |  4  |  3  |  3  |
 +-----------------------+-----+-----+-----+-----+------+-----+-----+-----+
 
-
+```
 ## Authors
 
-Ganesh Prasad B G - (www.github.com/InvincibleDev)
-
-
-
-## Acknowledgments
-
-[Vivek Chandra B S](https://github.com/vivekchandrabs)
+[Ganesh Prasad B G](https://www.github.com/InvincibleDev)
