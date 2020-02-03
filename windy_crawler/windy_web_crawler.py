@@ -12,7 +12,7 @@ def windy(place):
     Validation of the input and function calls
     """
 
-    base_url = f'https://www.windy.com/'
+    base_url = 'https://www.windy.com/'
     latitude, longitude = get_lat_long(place)
     base_url = base_url + f"{latitude}/{longitude}/"
     asyncio.get_event_loop().run_until_complete(main(base_url))
